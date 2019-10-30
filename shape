@@ -1,0 +1,12 @@
+import numpy as np
+data_ndarray = np.array([[5, 10, 15], 
+                         [20, 25, 30]])
+print(data_ndarray.shape)
+
+
+
+"""
+>>> 2, 3
+2 -> Rows
+3 -> Columns
+"""
